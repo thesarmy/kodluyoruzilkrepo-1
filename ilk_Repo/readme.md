@@ -26,5 +26,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+<<<<<<< HEAD
 ---
 [Patika Profili](https://app.patika.dev/iamdyarar)
+=======
+>>>>>>> f4489f36bc0c0070e5bad08a827da7ab5c62f732
