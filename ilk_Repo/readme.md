@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-*https://app.patika.dev/iamdyarar*
+[Patika Profili:](*https://app.patika.dev/iamdyarar*)
