@@ -4,7 +4,7 @@ Bu repo [kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 
 ---
 ## 
-> ![Projeden Bir Fotoğraf](ilk_Repo\proje_Resmi.png)
+> ![Projeden Bir Fotoğraf](..\ilk_Repo\proje_Resmi.png)
 ---
 ## Installation
 Öncelikle projeyi clonelayın. 
@@ -25,3 +25,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+---
+[Patika Profili](https://app.patika.dev/iamdyarar)
